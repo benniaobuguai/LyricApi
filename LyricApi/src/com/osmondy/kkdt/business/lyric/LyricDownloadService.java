@@ -10,10 +10,11 @@ import android.os.ResultReceiver;
 
 import com.osmondy.framework.common.log.Log;
 import com.osmondy.framework.common.util.http.HttpRequestException;
-import com.osmondy.kkdt.business.lyric.gecime.AlbumInfo;
 import com.osmondy.kkdt.business.lyric.gecime.GeCiMeHelper;
 import com.osmondy.kkdt.business.lyric.qq.QQLyricHelper;
 import com.osmondy.kkdt.model.Music;
+import com.osmondy.kkdt.model.lyric.Lyric;
+import com.osmondy.kkdt.model.lyric.gecime.AlbumInfo;
 
 /**
  * 歌词下载的后台服务

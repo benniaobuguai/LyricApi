@@ -1,4 +1,4 @@
-package com.osmondy.kkdt.business.lyric.gecime;
+package com.osmondy.kkdt.model.lyric.gecime;
 
 import android.os.Bundle;
 import android.os.Parcel;

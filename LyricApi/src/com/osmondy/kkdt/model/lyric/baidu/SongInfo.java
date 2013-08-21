@@ -1,4 +1,4 @@
-package com.osmondy.kkdt.business.lyric.baidu;
+package com.osmondy.kkdt.model.lyric.baidu;
 
 /**
  * 歌曲信息</br>

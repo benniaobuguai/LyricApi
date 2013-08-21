@@ -9,6 +9,8 @@ import org.json.JSONObject;
 
 import com.osmondy.framework.common.extra.ResultSet;
 import com.osmondy.framework.common.log.Log;
+import com.osmondy.kkdt.model.lyric.gecime.AlbumInfo;
+import com.osmondy.kkdt.model.lyric.gecime.GCMLyricInfo;
 
 /**
  * 歌词迷数据解析器

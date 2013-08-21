@@ -1,4 +1,4 @@
-package com.osmondy.kkdt.business.lyric;
+package com.osmondy.kkdt.model.lyric;
 
 import java.io.Serializable;
 

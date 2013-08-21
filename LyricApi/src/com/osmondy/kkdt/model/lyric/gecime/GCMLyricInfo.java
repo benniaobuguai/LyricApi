@@ -1,4 +1,4 @@
-package com.osmondy.kkdt.business.lyric.gecime;
+package com.osmondy.kkdt.model.lyric.gecime;
 
 /**
  * 歌词迷的歌词信息

@@ -19,6 +19,8 @@ import com.osmondy.framework.common.online.IDownload;
 import com.osmondy.framework.common.util.http.HttpRequestException;
 import com.osmondy.kkdt.global.config.AppConfig;
 import com.osmondy.kkdt.model.Music;
+import com.osmondy.kkdt.model.lyric.Lyric;
+import com.osmondy.kkdt.model.lyric.LyricItem;
 
 /**
  * 歌词助手

@@ -18,9 +18,10 @@ import com.osmondy.framework.common.extra.ResultSet;
 import com.osmondy.framework.common.log.Log;
 import com.osmondy.framework.common.util.http.HttpClientUtils;
 import com.osmondy.framework.common.util.http.HttpRequestException;
-import com.osmondy.kkdt.business.lyric.Lyric;
 import com.osmondy.kkdt.business.lyric.LyricLoader;
 import com.osmondy.kkdt.model.Music;
+import com.osmondy.kkdt.model.lyric.Lyric;
+import com.osmondy.kkdt.model.lyric.baidu.SongInfo;
 
 /**
  * 歌词来源于Baidu
