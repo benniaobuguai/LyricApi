@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="gb2312"?>
+<command-lable-xwl78-qq-music>
+<cmd value="4105" verson="7">
+<result>0</result>
+<reason></reason>
+<qq uin="" />
+<songcount>3</songcount>
+<songname><![CDATA[连哭都是我的错]]></songname>
+<singer><![CDATA[东来东往]]></singer>
+<result_type>1</result_type>
+<rangemin>1</rangemin>
+<rangemax>20</rangemax>
+<songinfo id="183767"  scroll="1">
+<seqnum>0</seqnum>
+<name><![CDATA[连哭都是我的错]]></name>
+<singername><![CDATA[东来东往]]></singername>
+</songinfo>
+<songinfo id="235554"  scroll="1">
+<seqnum>1</seqnum>
+<name><![CDATA[连哭都是我的错]]></name>
+<singername><![CDATA[东来东往]]></singername>
+</songinfo>
+<songinfo id="402528"  scroll="1">
+<seqnum>2</seqnum>
+<name><![CDATA[连哭都是我的错]]></name>
+<singername><![CDATA[东来东往]]></singername>
+</songinfo>
+</cmd>
+</command-lable-xwl78-qq-music>
